@@ -4,6 +4,7 @@ title: About
 ---
 
 I am an aspiring software engineer who is working on developing my programmatic skills. The technologies that I am acquainted wtih and am working on are:
+
 * Java
 * Python
 * Ruby
