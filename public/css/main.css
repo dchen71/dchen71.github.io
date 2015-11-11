@@ -1,4 +1,8 @@
 /* Sidebar button group */
+#contact-btn ul{
+	padding-left: 0;
+}
+
 #contact-btn ul li{
 	display:inline;
 }
