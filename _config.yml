@@ -22,3 +22,5 @@ paginate:         5
 # Custom vars
 github:
   repo:           https://github.com/dchen71
+linkedin:
+	link:		  https://www.linkedin.com/in/daniel-chen-6a97aa62
