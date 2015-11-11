@@ -13,5 +13,6 @@ I am an aspiring software engineer who is working on developing my programmatic 
 * PostgreSQL
 * Javascript/jQuery
 * Ruby on Rails
+* CSS/SASS
 
-I am interested in data science and bioinformatics and am slowly working on mastering them. They are quite a bit of a deep field but I am taking it bit by bit.
+I am interested in data science and bioinformatics and am slowly working on mastering them. It's quite a deep field so I am taking it bit by bit while learning other technologies to supplement them.
