@@ -18,6 +18,6 @@ Overall, the specialization is well balanced. It teaches how to use R, statistic
 
 ### Suggestions for after completing the courses
 **[Kaggle](https://www.kaggle.com)**  
-Kaggle hosts a lot of machine learning competitions which you can compete in for fame, potential career, or prizes. The data sets tend to be huge and will challenge you. If lost, start off on the *Titantic: Machine Learning from Diaster* as there are tutorials for R, Python, and even Excel.  
+Kaggle hosts a lot of machine learning competitions which you can compete in for fame, potential career, or prizes. The data sets tend to be huge and will challenge you. If lost, start off on the [*Titantic: Machine Learning from Diaster*](https://www.kaggle.com/c/titanic) as there are tutorials for R, Python, and even Excel.  
 **Analytic Edge**  
 Analytic Edge is a MOOC offered through [edX](https://www.edx.org). This course goes through case studies with the various machine learning model and has the homework based on the model used per lesson. The courses emphasize techniques to check for overfitting with each model. In addition, there is a required course project through Kaggle in which you will do some machine learning.
