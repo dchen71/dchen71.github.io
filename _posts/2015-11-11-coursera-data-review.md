@@ -10,13 +10,14 @@ The courses, like any other MOOCs out there, are a series of video lectures foll
 
 #### Examples of what you will learn to do
 ![Chart created in R]({{ site.baseurl }}public/img/2015-11-11-chart.png)  
-[Presentation created in R]({{ site.baseurl }}datasciencecoursera/Developing%20Data%20Products/map_present.html#/)  
+Create colorful charts using ggplot  
+Create [presentations]({{ site.baseurl }}datasciencecoursera/Developing%20Data%20Products/map_present.html#/) in which you can quickly update the presentation with new data by simply rerunning the functions  
 
 ### Thoughts on the program
 Overall, the specialization is well balanced. It teaches how to use R, statistics, and machine learning. It's a good entryway into going depending on what you want to do with this knowledge. The statistics courses are about the same as elementary statistics courses in college or university, albeit using R instead of calculators to solve everything. The machine learning courses focused more on certain machine learning models although did talk about a lot of the popular models including CART and clustering.
 
 ### Suggestions for after completing the courses
 **[Kaggle](https://www.kaggle.com)**  
-Kaggle hosts a lot of machine learning competitions which you can compete in for fame, potential career, or prizes. The data sets tend to be huge and will challenge you. If lost, start off on the *Titantic: Machine Learning from Diaster* as there are tutorials for R, Python, and even Excel.
+Kaggle hosts a lot of machine learning competitions which you can compete in for fame, potential career, or prizes. The data sets tend to be huge and will challenge you. If lost, start off on the *Titantic: Machine Learning from Diaster* as there are tutorials for R, Python, and even Excel.  
 **Analytic Edge**  
 Analytic Edge is a MOOC offered through [edX](https://www.edx.org). This course goes through case studies with the various machine learning model and has the homework based on the model used per lesson. The courses emphasize techniques to check for overfitting with each model. In addition, there is a required course project through Kaggle in which you will do some machine learning.
