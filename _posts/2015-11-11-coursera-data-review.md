@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Thoughts about the Coursera Data Science Specialization
+tags: coursera, data science
 ---
 
 Coursera is one of many MOOCs which offer courses which teaches and ideally trains one to become more like a data scientist. Although I have not yet done the capstone, I will share my thoughts on the courses for those of you on the fence about the program. 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Devise Bootstrap Modal
+tags: devise, bootstrap, ruby on rails
 ---
 
 Setup using Devise 3.5.1 and bootstrap 3.3.5. This is code snippet for setting up certain devise views in the bootstrap modals and responding to json. The controllers will have to be overridden to respond to json.
