@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bag of Words in R
+title: Default dictionary values in python
 tags: python, defaultdict
 ---
 
