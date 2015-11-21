@@ -23,6 +23,8 @@ Aggregate can be used for against a single variable such as finding the median o
 
     aggregate(len ~ dose , data=ToothGrowth, median)
 
+And the following results from calling aggregate:
+
       dose   len
     1  0.5  9.85
     2  1.0 19.25
