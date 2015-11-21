@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Default dictionary values in python
-tags: python, defaultdict
+tags: python, functions
 ---
 
 defaultdict is part of the collections module in python and is used similarly to having called the setdefault method of regular dictionaries for every value. For example:
