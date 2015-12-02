@@ -3,17 +3,8 @@ layout: page
 title: About
 ---
 
-I am an aspiring software engineer who is working on developing my programmatic skills. The technologies that I am acquainted wtih and am working on are:
+My name is Daniel Chen. I have a biology background and an interest in bioinformatics. I am an aspiring software engineer who is interested in applying my skills into bioinformatics or research. When not slowly building up bioinfomratics background, I work on mastering other fields including web and machine learning. I am interested in data science  and am slowly working on mastering all the subtle nuances of the field. Programming is an interesting skill set that has broadened my horizons.  
 
-* Java
-* Python
-* Ruby
-* R
-* Bioconductor
-* MySQL
-* PostgreSQL
-* Javascript/jQuery
-* Ruby on Rails
-* CSS/SASS
+When not being crunched by machines, I slowly build fluency in foreign languages to fulfill my goals of being a polyglot. 
 
-I am interested in data science and bioinformatics and am slowly working on mastering them. It's quite a deep field so I am taking it bit by bit while learning other technologies to supplement them.
+Feel free to contact me through linkedin if you ever want to talk about anything.
