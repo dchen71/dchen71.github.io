@@ -5,7 +5,7 @@ title: Archive
 
 ## Blog Posts
 
+###2015
 {% for post in site.posts %}
-  ###2015
   * {{ post.date | date_to_string }} &raquo; [ {{ post.title }} ]({{ post.url }})
 {% endfor %}
