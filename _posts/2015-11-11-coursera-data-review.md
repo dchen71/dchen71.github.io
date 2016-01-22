@@ -22,3 +22,8 @@ Overall, the specialization is well balanced. It teaches how to use R, statistic
 Kaggle hosts a lot of machine learning competitions which you can compete in for fame, potential career, or prizes. The data sets tend to be huge and will challenge you. If lost, start off on the [*Titantic: Machine Learning from Diaster*](https://www.kaggle.com/c/titanic) as there are tutorials for R, Python, and even Excel.  
 **Analytic Edge**  
 Analytic Edge is a MOOC offered through [edX](https://www.edx.org). This course goes through case studies with the various machine learning model and has the homework based on the model used per lesson. The courses emphasize techniques to check for overfitting with each model. In addition, there is a required course project through Kaggle in which you will do some machine learning.
+
+
+
+*Update 01/17/2016*  
+Wrapping up the capstone. The capstone is based on the functionality of SwiftKey in that you are given datasets from 3 different sources, and have to try to come up with an shiny app to be able to predict the text word given the word or words preceding it. There are a lot of hints in each of the milestones but basically, it will involve a lot of looking up a lot of NLP(natural language processing) techniques including the Katz's backoff model.
