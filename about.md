@@ -7,4 +7,6 @@ My name is Daniel Chen. I have a biology background and an interest in bioinform
 
 When not being crunched by machines, I slowly build fluency in foreign languages to fulfill my goals of being a polyglot. 
 
+I will mostly be using the blog in order to post general information and programming snippets as reminders for me on how to do things. Hopefully, if you are browsing this blog, you will find it useful.
+
 Feel free to contact me through linkedin if you ever want to talk about anything.
